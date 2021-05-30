@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-6 col-md-12 footer-contact">
+          <div class="col-lg-6 col-md-6">
             <h3>MAKIDAH</h3>
             <p class=""">
                 Untuk Kita yang Masih Berpijak di Bumi, Mari Kita Jaga Kelestarian Lingkungan Kita Demi Masa Depan Yang Lebih Bersahabat.
@@ -15,7 +15,7 @@
             </p>
           </div>
 
-          <div class="col-lg-6 col-md-12 footer-links">
+          <div class="col-lg-6 col-md-6">
             <h4>Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Beranda</a></li>
@@ -23,6 +23,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="about">Tentang Kami</a></li>
             </ul>
           </div>
+
         </div>
       </div>
     </div>
